@@ -1,0 +1,19 @@
+{
+  "name": "node-js",
+  "version": "1.0.0",
+  "description": "Learning node js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASGodolfim/node-js-basic.git"
+  },
+  "author": "Arthur Stone Godolfim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ASGodolfim/node-js-basic/issues"
+  },
+  "homepage": "https://github.com/ASGodolfim/node-js-basic#readme"
+}
