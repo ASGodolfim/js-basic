@@ -1,0 +1,57 @@
+[
+    {
+        "id": 0,
+        "productName": "Fresh Avocados",
+        "image": "Avocados",
+        "from": "Spain",
+        "nutrients": "Vitamin B, Vitamin K",
+        "quantity": "4",
+        "price": "6.50",
+        "organic": true,
+        "description": "Avocados"
+    },
+    {
+        "id": 1,
+        "productName": "Goat and Sheep Cheese",
+        "image": "Cheese",
+        "from": "Portugal",
+        "nutrients": "Vitamin A, Calcium",
+        "quantity": "250g",
+        "price": "5.00",
+        "organic": false,
+        "description": "Cheese"
+    },
+    {
+        "id": 2,
+        "productName": "Apollo Broccoli",
+        "image": "Broccoli",
+        "from": "Portugal",
+        "nutrients": "Vitamin C, Vitamin K",
+        "quantity": "3",
+        "price": "5.50",
+        "organic": true,
+        "description": "Broccoli"
+    },
+    {
+        "id": 3,
+        "productName": "Baby Carrots",
+        "image": "Carrot",
+        "from": "France",
+        "nutrients": "Vitamin A,Vitamin K",
+        "quantity": "20",
+        "price": "3.00",
+        "organic": true,
+        "description": "Carrot"
+    },
+    {
+        "id": 4,
+        "productName": "Sweet Corncobs",
+        "image": "Corn",
+        "from": "Germany",
+        "nutrients": "Vitamin C, Magnesium",
+        "quantity": "2",
+        "price": "2.00",
+        "organic": false,
+        "description": "Corn"
+    }
+]
